@@ -1,0 +1,11 @@
+golang-github-olekukonko-ts (0.0~git20140412.0.ecf753e-2) unstable; urgency=medium
+
+  * Fix Vcs-Git url
+
+ -- Stephen Gelman <ssgelm@gmail.com>  Wed, 26 Jul 2017 06:57:45 +0000
+
+golang-github-olekukonko-ts (0.0~git20140412.0.ecf753e-1) unstable; urgency=medium
+
+  * Initial release (Closes: #869526)
+
+ -- Stephen Gelman <ssgelm@gmail.com>  Mon, 03 Jul 2017 04:26:23 +0000
